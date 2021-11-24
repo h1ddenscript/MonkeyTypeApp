@@ -17,7 +17,6 @@ const monkeyType = () => {
     webPreferences: {
       preload: path.join(app.getAppPath(), 'src/preload.js'),
       devTools: true,
-      frame: false,
     }
   });
 
