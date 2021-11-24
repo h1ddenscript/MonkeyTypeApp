@@ -1,5 +1,6 @@
-const { app, BrowserWindow } = require('electron');
+const { app, BrowserWindow, ipcMain } = require('electron');
 const path = require('path');
+const config = require('./config')
 
 const monkeyType = () => {
   // Create the browser window.
@@ -9,8 +10,8 @@ const monkeyType = () => {
     title: 'monkeytype',
     titleBarStyle: 'hidden',
     titleBarOverlay: {
-      color: '#e8e9ec',
-      symbolColor: '#2d539e',
+      color: config.get('theme').bgcolor,
+      symbolColor: config.get('theme').caretcolor,
     },
     autoHideMenuBar: true,
     show: false,
