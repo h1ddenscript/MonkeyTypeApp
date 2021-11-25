@@ -24,5 +24,5 @@ If there are any issues with the application, please make sure to check the actu
 Thanks to the developers over at [MonkeyType](https://twitter.com/monkeytypegame) for making this possible. <br />
 
 ### License
-MIT
+GNU
 
