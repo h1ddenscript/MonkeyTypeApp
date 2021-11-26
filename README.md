@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/h1ddenscript/MonkeyTypeApp/raw/master/public/mokeytypeapp_front.png" />
 </p>
-<br />
 
 [![MonkeyType-Status](https://img.shields.io/github/issues/h1ddenscript/MonkeyTypeApp?style=flat-square)](https://github.com/h1ddenscript/MonkeyTypeApp/issues)
 [![Electron](https://img.shields.io/node/v/electron?color=blue&label=electron&style=flat-square)](https://www.electronjs.org/)
