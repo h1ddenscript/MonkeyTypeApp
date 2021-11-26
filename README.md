@@ -22,6 +22,7 @@ If there are any issues with the application, please make sure to check the actu
 
 ## Credit
 Thanks to the developers over at [MonkeyType](https://twitter.com/monkeytypegame) for making this possible. <br />
+_MonkeyTypeApp has no affiliation towards MonkeyType. We are a non-profit project and do our best to follow the original MonkeyType's terms of service._
 
 ### License
 GNU
