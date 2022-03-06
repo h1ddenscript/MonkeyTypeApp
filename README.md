@@ -6,6 +6,8 @@
 [![Electron](https://img.shields.io/node/v/electron?color=blue&label=electron&style=flat-square)](https://www.electronjs.org/)
 [![Electron-Forge](https://img.shields.io/node/v/electron-forge?color=black&label=electron-forge&style=flat-square)](https://www.electronforge.io/)
 
+> I haven't signed this application as it is a low effort project just to test and mess around with Electron. If you plan on using this application on a daily basis you may get a warning suggesting that this is "malware".
+
 # MonkeyTypeApp
 The site [MonkeyType](https://monkeytype.com/), a minimalist typing test used for practising typing, can be used as an application with the power of Electron. <br />
 If there are any issues with the application, please make sure to check the actual MonkeyType site before submitting an issue.
